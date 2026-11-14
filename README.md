@@ -40,8 +40,16 @@
 | 机动车充电设施 R09 | [PDF 第 37 页](https://raw.githubusercontent.com/tonyqus/qi7-building-contract-review/main/sources/%E5%91%A8%E5%AE%B6%E6%B8%A1%E8%A1%97%E9%81%93%E6%98%8C%E9%87%8C%E4%B8%9C%E8%B7%AF395%E5%BC%84%E5%B0%8F%E5%8C%BA%E5%B1%8B%E9%9D%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD%E6%94%B9%E9%80%A0%E9%A1%B9%E7%9B%AE%EF%BC%88%E5%BE%81%E8%AF%A2%E7%89%88%EF%BC%89-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf#page=37)（75） | “新增10%充电桩停车位”；“做好电力管线预埋，留好接口”，后期征集意见再统一安装充电桩 | 明确本次交付范围、实际数量、安装时间及费用边界 |
 | 标识标牌 R10 | [PDF 第 38 页](https://raw.githubusercontent.com/tonyqus/qi7-building-contract-review/main/sources/%E5%91%A8%E5%AE%B6%E6%B8%A1%E8%A1%97%E9%81%93%E6%98%8C%E9%87%8C%E4%B8%9C%E8%B7%AF395%E5%BC%84%E5%B0%8F%E5%8C%BA%E5%B1%8B%E9%9D%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD%E6%94%B9%E9%80%A0%E9%A1%B9%E7%9B%AE%EF%BC%88%E5%BE%81%E8%AF%A2%E7%89%88%EF%BC%89-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf#page=38)（76） | 文字称具体位置后期决定；图示标注入口铭牌 3 个、道路指示牌 6 个 | 区分图示数量与最终清单，明确规格、点位及费用 |
 | 屋面保留钢构件 R11 | [PDF 第 13 页](https://raw.githubusercontent.com/tonyqus/qi7-building-contract-review/main/sources/%E5%91%A8%E5%AE%B6%E6%B8%A1%E8%A1%97%E9%81%93%E6%98%8C%E9%87%8C%E4%B8%9C%E8%B7%AF395%E5%BC%84%E5%B0%8F%E5%8C%BA%E5%B1%8B%E9%9D%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD%E6%94%B9%E9%80%A0%E9%A1%B9%E7%9B%AE%EF%BC%88%E5%BE%81%E8%AF%A2%E7%89%88%EF%BC%89-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf#page=13)（49） | 保留原有主钢架；檩条“锈蚀严重或变形超过 0.005L（L 为檩条跨度）”需更换或加固 | 补充检查检测资料、锈蚀判定依据及更换加固工程量 |
+| 摄像头范围 R15 | [PDF 第 36 页](https://raw.githubusercontent.com/tonyqus/qi7-building-contract-review/main/sources/%E5%91%A8%E5%AE%B6%E6%B8%A1%E8%A1%97%E9%81%93%E6%98%8C%E9%87%8C%E4%B8%9C%E8%B7%AF395%E5%BC%84%E5%B0%8F%E5%8C%BA%E5%B1%8B%E9%9D%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD%E6%94%B9%E9%80%A0%E9%A1%B9%E7%9B%AE%EF%BC%88%E5%BE%81%E8%AF%A2%E7%89%88%EF%BC%89-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf#page=36)（74） | 指出摄像头部分角落覆盖不全、少量损坏；后文明确措施主要针对路灯 | 明确摄像头纳入本次、另行实施或不纳入；如纳入，列数量、点位、后端存储及验收要求 |
+| 门禁范围 R16 | [PDF 第 18 页](https://raw.githubusercontent.com/tonyqus/qi7-building-contract-review/main/sources/%E5%91%A8%E5%AE%B6%E6%B8%A1%E8%A1%97%E9%81%93%E6%98%8C%E9%87%8C%E4%B8%9C%E8%B7%AF395%E5%BC%84%E5%B0%8F%E5%8C%BA%E5%B1%8B%E9%9D%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD%E6%94%B9%E9%80%A0%E9%A1%B9%E7%9B%AE%EF%BC%88%E5%BE%81%E8%AF%A2%E7%89%88%EF%BC%89-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf#page=18)（56） | 标题含“单元入户门、门禁及入户信报箱”，正文明确入户门不更换、信报箱更换，未明确门禁措施 | 分别确认门禁、对讲及线路保留、维修或更换范围，以及现有故障处理安排 |
+| 弱电迁改责任 R17 | [PDF 第 20 页](https://raw.githubusercontent.com/tonyqus/qi7-building-contract-review/main/sources/%E5%91%A8%E5%AE%B6%E6%B8%A1%E8%A1%97%E9%81%93%E6%98%8C%E9%87%8C%E4%B8%9C%E8%B7%AF395%E5%BC%84%E5%B0%8F%E5%8C%BA%E5%B1%8B%E9%9D%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD%E6%94%B9%E9%80%A0%E9%A1%B9%E7%9B%AE%EF%BC%88%E5%BE%81%E8%AF%A2%E7%89%88%EF%BC%89-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf#page=20)（58） | 已规定逐户断网、提前告知、联系人及常规施工周期等安排 | 补充运营商确认、费用分担、每户最长中断时间、恢复验收、施工损坏和延误责任 |
+| 悬挂物检测与处置 R18 | [PDF 第 5 页](https://raw.githubusercontent.com/tonyqus/qi7-building-contract-review/main/sources/%E5%91%A8%E5%AE%B6%E6%B8%A1%E8%A1%97%E9%81%93%E6%98%8C%E9%87%8C%E4%B8%9C%E8%B7%AF395%E5%BC%84%E5%B0%8F%E5%8C%BA%E5%B1%8B%E9%9D%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD%E6%94%B9%E9%80%A0%E9%A1%B9%E7%9B%AE%EF%BC%88%E5%BE%81%E8%AF%A2%E7%89%88%EF%BC%89-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf#page=5)（37） | 要求施工单位对外墙悬挂物进行拉拔试验 | 明确检测对象、抽检比例、合格依据，以及不合格时的加固或拆除、费用承担、住户告知和复验程序 |
+| 景观建议与计价范围 R19 | [PDF 第 44 页](https://raw.githubusercontent.com/tonyqus/qi7-building-contract-review/main/sources/%E5%91%A8%E5%AE%B6%E6%B8%A1%E8%A1%97%E9%81%93%E6%98%8C%E9%87%8C%E4%B8%9C%E8%B7%AF395%E5%BC%84%E5%B0%8F%E5%8C%BA%E5%B1%8B%E9%9D%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD%E6%94%B9%E9%80%A0%E9%A1%B9%E7%9B%AE%EF%BC%88%E5%BE%81%E8%AF%A2%E7%89%88%EF%BC%89-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf#page=44)（82） | 电箱、公告栏形式较旧，部分座椅损坏，“建议同步进行提升改造” | 列明哪些建议已纳入工程及概算、哪些仅为效果建议，并明确材料规格和验收要求 |
+| 预备费使用 R20 | [PDF 第 65 页](https://raw.githubusercontent.com/tonyqus/qi7-building-contract-review/main/sources/%E5%91%A8%E5%AE%B6%E6%B8%A1%E8%A1%97%E9%81%93%E6%98%8C%E9%87%8C%E4%B8%9C%E8%B7%AF395%E5%BC%84%E5%B0%8F%E5%8C%BA%E5%B1%8B%E9%9D%A2%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD%E6%94%B9%E9%80%A0%E9%A1%B9%E7%9B%AE%EF%BC%88%E5%BE%81%E8%AF%A2%E7%89%88%EF%BC%89-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf#page=65)（103） | 列工程预备费115.33万元 | 提供动用条件、审批权限、工程量确认、公示及结算规则；涉及居民资金时明确授权依据 |
 
 施工防雨、隐蔽损伤、验收保修、项目优先级及征询授权等问题（R12–R14），见[完整审阅记录与待补资料清单](reviews/2026-11-14-consultation-review.md)。目前尚未取得完整征询表、资金筹措方案及表决记录，不能从设计方案推定已经完成相关授权。
+
+新增 R15–R20 分别涉及摄像头、门禁、弱电迁改、悬挂物检测处置、景观建议及预备费。逐栋工程量核查、变更审批计价、材料样板及设施移交维护要求，见[审阅记录的补充要求](reviews/2026-11-14-consultation-review.md#工程量变更及移交的补充要求)。
 
 ## 协作查阅与引用方式
 
@@ -54,7 +62,7 @@
 
 ## 记录原则与待核事项
 
-- 初步审阅记录根据此前对话整理，其中“原始 PDF 尚未入库”是当时的记录状态；文件现已入库，本 README 上表已完成文本引用核查。审阅记录中的其他结论及法规线索仍需分别核实。
+- 初步审阅记录已更新文件入库状态，并参考居民提供的朋友审核稿补充 R15–R20；上述原文已对照 PDF 文本核查。审核意见及法规线索仍需分别核实。
 - 压缩版 PDF 是当前引用依据；原始未压缩文件、明确的版本发布日期及后续更正文件仍可继续补充。
 - 后续正式合同应单独审阅，并与征询方案逐项比较。
 - 现有材料不足以认定造价虚高、采购违法或利益输送。
